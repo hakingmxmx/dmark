@@ -1,0 +1,25 @@
+a:hover {
+  color: #000000;
+}
+
+a {
+  text-decoration: initial;
+}
+
+a {
+  color: #7d8285;
+}
+
+*, *::before, *::after {
+  margin: initial;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 0px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
